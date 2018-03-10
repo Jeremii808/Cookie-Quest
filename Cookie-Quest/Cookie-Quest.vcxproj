@@ -25,6 +25,14 @@
     <ClInclude Include="monster.h" />
     <ClInclude Include="riddles.h" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="character.cpp" />
+    <ClCompile Include="gameworld.cpp" />
+    <ClCompile Include="items.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="monster.cpp" />
+    <ClCompile Include="riddles.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{BCD365B5-D53C-473A-99D9-6017755F9D18}</ProjectGuid>
