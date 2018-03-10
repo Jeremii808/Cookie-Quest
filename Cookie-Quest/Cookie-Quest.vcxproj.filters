@@ -14,4 +14,26 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\College Assignments\jeremyvaldez_cs151_adventuregameproject\cs151_adventuregame\cs151_adventuregame\character.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\College Assignments\jeremyvaldez_cs151_adventuregameproject\cs151_adventuregame\cs151_adventuregame\gameworld.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\College Assignments\jeremyvaldez_cs151_adventuregameproject\cs151_adventuregame\cs151_adventuregame\items.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\College Assignments\jeremyvaldez_cs151_adventuregameproject\cs151_adventuregame\cs151_adventuregame\monster.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\College Assignments\jeremyvaldez_cs151_adventuregameproject\cs151_adventuregame\cs151_adventuregame\riddles.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="D:\College Assignments\jeremyvaldez_cs151_adventuregameproject\cs151_adventuregame\cs151_adventuregame\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>

@@ -115,6 +115,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="D:\College Assignments\jeremyvaldez_cs151_adventuregameproject\cs151_adventuregame\cs151_adventuregame\character.h" />
+    <ClInclude Include="D:\College Assignments\jeremyvaldez_cs151_adventuregameproject\cs151_adventuregame\cs151_adventuregame\gameworld.h" />
+    <ClInclude Include="D:\College Assignments\jeremyvaldez_cs151_adventuregameproject\cs151_adventuregame\cs151_adventuregame\items.h" />
+    <ClInclude Include="D:\College Assignments\jeremyvaldez_cs151_adventuregameproject\cs151_adventuregame\cs151_adventuregame\monster.h" />
+    <ClInclude Include="D:\College Assignments\jeremyvaldez_cs151_adventuregameproject\cs151_adventuregame\cs151_adventuregame\riddles.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="D:\College Assignments\jeremyvaldez_cs151_adventuregameproject\cs151_adventuregame\cs151_adventuregame\Main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
