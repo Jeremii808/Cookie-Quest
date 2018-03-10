@@ -1,7 +1,3 @@
-/*
-Jeremy Valdez
-Project 1
-*/
 #include<iostream>
 #include<string>
 #include "gameworld.h"
