@@ -15,28 +15,20 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="D:\College Assignments\jeremyvaldez_cs151_adventuregameproject\cs151_adventuregame\cs151_adventuregame\character.h">
+    <ClInclude Include="character.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="D:\College Assignments\jeremyvaldez_cs151_adventuregameproject\cs151_adventuregame\cs151_adventuregame\gameworld.h">
+    <ClInclude Include="gameworld.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="D:\College Assignments\jeremyvaldez_cs151_adventuregameproject\cs151_adventuregame\cs151_adventuregame\items.h">
+    <ClInclude Include="items.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="D:\College Assignments\jeremyvaldez_cs151_adventuregameproject\cs151_adventuregame\cs151_adventuregame\monster.h">
+    <ClInclude Include="monster.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="D:\College Assignments\jeremyvaldez_cs151_adventuregameproject\cs151_adventuregame\cs151_adventuregame\riddles.h">
+    <ClInclude Include="riddles.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="D:\College Assignments\jeremyvaldez_cs151_adventuregameproject\cs151_adventuregame\cs151_adventuregame\Main.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Source.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>

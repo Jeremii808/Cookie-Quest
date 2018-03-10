@@ -18,6 +18,13 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="character.h" />
+    <ClInclude Include="gameworld.h" />
+    <ClInclude Include="items.h" />
+    <ClInclude Include="monster.h" />
+    <ClInclude Include="riddles.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{BCD365B5-D53C-473A-99D9-6017755F9D18}</ProjectGuid>
@@ -114,17 +121,6 @@
       <OptimizeReferences>true</OptimizeReferences>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClInclude Include="D:\College Assignments\jeremyvaldez_cs151_adventuregameproject\cs151_adventuregame\cs151_adventuregame\character.h" />
-    <ClInclude Include="D:\College Assignments\jeremyvaldez_cs151_adventuregameproject\cs151_adventuregame\cs151_adventuregame\gameworld.h" />
-    <ClInclude Include="D:\College Assignments\jeremyvaldez_cs151_adventuregameproject\cs151_adventuregame\cs151_adventuregame\items.h" />
-    <ClInclude Include="D:\College Assignments\jeremyvaldez_cs151_adventuregameproject\cs151_adventuregame\cs151_adventuregame\monster.h" />
-    <ClInclude Include="D:\College Assignments\jeremyvaldez_cs151_adventuregameproject\cs151_adventuregame\cs151_adventuregame\riddles.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="D:\College Assignments\jeremyvaldez_cs151_adventuregameproject\cs151_adventuregame\cs151_adventuregame\Main.cpp" />
-    <ClCompile Include="Source.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
